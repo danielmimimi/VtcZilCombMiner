@@ -31,7 +31,7 @@ namespace CombMiner
             t2.Start();
             while (true)
             {
-                var input = Console.ReadLine();
+                var text = Console.ReadLine();
             }
         }
     }
