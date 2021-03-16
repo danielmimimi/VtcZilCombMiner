@@ -1,0 +1,12 @@
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.exe
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.deps.json
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.runtimeconfig.json
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.runtimeconfig.dev.json
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.dll
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\bin\Release\netcoreapp3.1\CombMiner.pdb
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.AssemblyInfoInputs.cache
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.AssemblyInfo.cs
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.csproj.CoreCompileInputs.cache
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.dll
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.pdb
+C:\Users\Daniel_Klauser\source\repos\VtcZilCombMiner\CombMiner\obj\Release\netcoreapp3.1\CombMiner.genruntimeconfig.cache
